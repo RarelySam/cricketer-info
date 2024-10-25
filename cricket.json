@@ -1,0 +1,182 @@
+[
+    {
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://ibb.co.com/gDMnxWt",
+      "player_type": "Batsman",
+      "rating": 90,
+      "batting_hand": "Right-handed",
+      "price": 10000000
+    },
+    {
+      "name": "Rohit Sharma",
+      "country": "India",
+      "image": "https://ibb.co.com/2hSsvL9",
+      "player_type": "Batsman",
+      "rating": 85,
+      "batting_hand": "Right-handed",
+      "price": 8000000
+    },
+    {
+      "name": "Ravindra Jadeja",
+      "country": "India",
+      "image": "https://ibb.co.com/BNgmW4r",
+      "player_type": "All-rounder",
+      "rating": 80,
+      "batting_hand": "Left-handed",
+      "price": 6000000
+    },
+    {
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "image": "https://ibb.co.com/TYfHTp1",
+      "player_type": "Bowler",
+      "rating": 95,
+      "batting_hand": "Right-handed",
+      "price": 12000000
+    },
+    {
+      "name": "M.S. Dhoni",
+      "country": "India",
+      "image": "https://ibb.co.com/RgxLhPc",
+      "player_type": "Wicket-keeper",
+      "rating": 80,
+      "batting_hand": "Right-handed",
+      "price": 5000000
+    },
+    {
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "https://ibb.co.com/Rpdk7s7",
+      "player_type": "All-rounder",
+      "rating": 85,
+      "batting_hand": "Left-handed",
+      "price": 7000000
+    },
+    {
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "image": "https://ibb.co.com/fXMcdSq",
+      "player_type": "Wicket-keeper",
+      "rating": 80,
+      "batting_hand": "Right-handed",
+      "price": 6000000
+    },
+    {
+      "name": "Tamim Iqbal",
+      "country": "Bangladesh",
+      "image": "https://ibb.co.com/KwPLCZr",
+      "player_type": "Batsman",
+      "rating": 85,
+      "batting_hand": "Left-handed",
+      "price": 7000000
+    },
+    {
+      "name": "Mustafizur Rahman",
+      "country": "Bangladesh",
+      "image": "https://ibb.co.com/PTBRnNR",
+      "player_type": "Bowler",
+      "rating": 90,
+      "batting_hand": "Right-handed",
+      "price": 10000000
+    },
+    {
+      "name": "Mahmudullah Riyad",
+      "country": "Bangladesh",
+      "image": "https://ibb.co.com/bXBRHM0",
+      "player_type": "All-rounder",
+      "rating": 75,
+      "batting_hand": "Right-handed",
+      "price": 5000000
+    },
+    {
+      "name": "Kuldeep Yadav",
+      "country": "India",
+      "image": "https://ibb.co.com/9TbMtF4",
+      "player_type": "Bowler",
+      "rating": 85,
+      "batting_hand": "Left-handed",
+      "price": 8000000
+    },
+    {
+      "name": "Yuzvendra Chahal",
+      "country": "India",
+      "image": "https://ibb.co.com/g36FL3q",
+      "player_type": "Bowler",
+      "rating": 80,
+      "batting_hand": "Right-handed",
+      "price": 6000000
+    },
+    {
+      "name": "Hardik Pandya",
+      "country": "India",
+      "image": "https://ibb.co.com/Lztc09L",
+      "player_type": "All-rounder",
+      "rating": 85,
+      "batting_hand": "Right-handed",
+      "price": 9000000
+    },
+    {
+      "name": "K.L. Rahul",
+      "country": "India",
+      "image": "https://ibb.co.com/Z2DyBxh",
+      "player_type": "Wicket-keeper",
+      "rating": 80,
+      "batting_hand": "Right-handed",
+      "price": 7000000
+    },
+    {
+      "name": "Rishabh Pant",
+      "country": "India",
+      "image": "https://ibb.co.com/gV6smYd",
+      "player_type": "Wicket-keeper",
+      "rating": 75,
+      "batting_hand": "Left-handed",
+      "price": 6000000
+    },
+    {
+      "name": "Shaheen Afridi",
+      "country": "Pakistan",
+      "image": "https://ibb.co.com/YPVQ9ZT",
+      "player_type": "Bowler",
+      "rating": 90,
+      "batting_hand": "Right-handed",
+      "price": 10000000
+    },
+    {
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "image": "https://ibb.co.com/jym6P64",
+      "player_type": "Batsman",
+      "rating": 95,
+      "batting_hand": "Right-handed",
+      "price": 12000000
+    },
+    {
+      "name": "Imam-ul-Haq",
+      "country": "Pakistan",
+      "image": "https://ibb.co.com/vH2RVpC",
+      "player_type": "Batsman",
+      "rating": 80,
+      "batting_hand": "Left-handed",
+      "price": 7000000
+    },
+    {
+      "name": "Fakhar Zaman",
+      "country": "Pakistan",
+      "image": "https://ibb.co.com/4K8h3yZ",
+      "player_type": "Batsman",
+      "rating": 85,
+      "batting_hand": "Left-handed",
+      "price": 8000000
+    },
+    {
+      "name": "Hasan Ali",
+      "country": "Pakistan",
+      "image": "https://ibb.co.com/0rTsSNH",
+      "player_type": "Bowler",
+      "rating": 80,
+      "batting_hand": "Right-handed",
+      "price": 6000000
+    }
+  ]
