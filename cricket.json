@@ -2,7 +2,7 @@
     {
       "name": "Virat Kohli",
       "country": "India",
-      "image": "https://ibb.co.com/gDMnxWt",
+      "image": "https://i.ibb.co.com/30yJnFS/Virat-kohli.jpg",
       "player_type": "Batsman",
       "rating": 90,
       "batting_hand": "Right-handed",
@@ -11,7 +11,7 @@
     {
       "name": "Rohit Sharma",
       "country": "India",
-      "image": "https://ibb.co.com/2hSsvL9",
+      "image": "https://i.ibb.co.com/qjCWN4S/rohit-sharma.jpg",
       "player_type": "Batsman",
       "rating": 85,
       "batting_hand": "Right-handed",
@@ -20,7 +20,7 @@
     {
       "name": "Ravindra Jadeja",
       "country": "India",
-      "image": "https://ibb.co.com/BNgmW4r",
+      "image": "https://i.ibb.co.com/fvCb68n/Ravindra-Jadeja.jpg",
       "player_type": "All-rounder",
       "rating": 80,
       "batting_hand": "Left-handed",
@@ -29,7 +29,7 @@
     {
       "name": "Jasprit Bumrah",
       "country": "India",
-      "image": "https://ibb.co.com/TYfHTp1",
+      "image": "https://i.ibb.co.com/ckBNvMw/Jasprit-Bumrah.jpg",
       "player_type": "Bowler",
       "rating": 95,
       "batting_hand": "Right-handed",
@@ -38,7 +38,7 @@
     {
       "name": "M.S. Dhoni",
       "country": "India",
-      "image": "https://ibb.co.com/RgxLhPc",
+      "image": "https://i.ibb.co.com/tH7yZcD/dhoni.jpg",
       "player_type": "Wicket-keeper",
       "rating": 80,
       "batting_hand": "Right-handed",
@@ -47,7 +47,7 @@
     {
       "name": "Shakib Al Hasan",
       "country": "Bangladesh",
-      "image": "https://ibb.co.com/Rpdk7s7",
+      "image": "https://i.ibb.co.com/mCgVS2S/sakib-al-hasan.jpg",
       "player_type": "All-rounder",
       "rating": 85,
       "batting_hand": "Left-handed",
@@ -56,7 +56,7 @@
     {
       "name": "Mushfiqur Rahim",
       "country": "Bangladesh",
-      "image": "https://ibb.co.com/fXMcdSq",
+      "image": "https://i.ibb.co.com/D14qfbz/mushfiqur-rahim.jpg",
       "player_type": "Wicket-keeper",
       "rating": 80,
       "batting_hand": "Right-handed",
@@ -65,7 +65,7 @@
     {
       "name": "Tamim Iqbal",
       "country": "Bangladesh",
-      "image": "https://ibb.co.com/KwPLCZr",
+      "image": "https://i.ibb.co.com/RyFBLnD/tamim-iqbal.jpg",
       "player_type": "Batsman",
       "rating": 85,
       "batting_hand": "Left-handed",
@@ -74,7 +74,7 @@
     {
       "name": "Mustafizur Rahman",
       "country": "Bangladesh",
-      "image": "https://ibb.co.com/PTBRnNR",
+      "image": "https://i.ibb.co.com/bHpxZPx/Mustafizur-Rahman.jpg",
       "player_type": "Bowler",
       "rating": 90,
       "batting_hand": "Right-handed",
@@ -83,7 +83,7 @@
     {
       "name": "Mahmudullah Riyad",
       "country": "Bangladesh",
-      "image": "https://ibb.co.com/bXBRHM0",
+      "image": "https://i.ibb.co.com/FzwqsLr/mahmudullah-riyad.jpg",
       "player_type": "All-rounder",
       "rating": 75,
       "batting_hand": "Right-handed",
@@ -92,7 +92,7 @@
     {
       "name": "Kuldeep Yadav",
       "country": "India",
-      "image": "https://ibb.co.com/9TbMtF4",
+      "image": "https://i.ibb.co.com/T84CLV0/Kuldeep.jpg",
       "player_type": "Bowler",
       "rating": 85,
       "batting_hand": "Left-handed",
@@ -101,7 +101,7 @@
     {
       "name": "Yuzvendra Chahal",
       "country": "India",
-      "image": "https://ibb.co.com/g36FL3q",
+      "image": "https://i.ibb.co.com/CzWs3zC/yuzvendra-chahal.jpg",
       "player_type": "Bowler",
       "rating": 80,
       "batting_hand": "Right-handed",
@@ -110,7 +110,7 @@
     {
       "name": "Hardik Pandya",
       "country": "India",
-      "image": "https://ibb.co.com/Lztc09L",
+      "image": "https://i.ibb.co.com/7JWZSrw/Hardik-Pandya.jpg",
       "player_type": "All-rounder",
       "rating": 85,
       "batting_hand": "Right-handed",
@@ -119,7 +119,7 @@
     {
       "name": "K.L. Rahul",
       "country": "India",
-      "image": "https://ibb.co.com/Z2DyBxh",
+      "image": "https://i.ibb.co.com/Hh8mtqr/KL-Rahul.jpg",
       "player_type": "Wicket-keeper",
       "rating": 80,
       "batting_hand": "Right-handed",
@@ -128,7 +128,7 @@
     {
       "name": "Rishabh Pant",
       "country": "India",
-      "image": "https://ibb.co.com/gV6smYd",
+      "image": "https://i.ibb.co.com/PQtBFkM/Rishabh-Pant.jpg",
       "player_type": "Wicket-keeper",
       "rating": 75,
       "batting_hand": "Left-handed",
@@ -137,7 +137,7 @@
     {
       "name": "Shaheen Afridi",
       "country": "Pakistan",
-      "image": "https://ibb.co.com/YPVQ9ZT",
+      "image": "https://i.ibb.co.com/k5PBn16/shaheen-shah-afridi.jpg",
       "player_type": "Bowler",
       "rating": 90,
       "batting_hand": "Right-handed",
@@ -146,7 +146,7 @@
     {
       "name": "Babar Azam",
       "country": "Pakistan",
-      "image": "https://ibb.co.com/jym6P64",
+      "image": "https://i.ibb.co.com/rxY7R7y/Babar-Azam.jpg",
       "player_type": "Batsman",
       "rating": 95,
       "batting_hand": "Right-handed",
@@ -155,7 +155,7 @@
     {
       "name": "Imam-ul-Haq",
       "country": "Pakistan",
-      "image": "https://ibb.co.com/vH2RVpC",
+      "image": "https://i.ibb.co.com/g3shmNb/Imam-ul-Haq.jpg",
       "player_type": "Batsman",
       "rating": 80,
       "batting_hand": "Left-handed",
@@ -164,7 +164,7 @@
     {
       "name": "Fakhar Zaman",
       "country": "Pakistan",
-      "image": "https://ibb.co.com/4K8h3yZ",
+      "image": "https://i.ibb.co.com/xX1xdvS/Fakhar-Zaman.png",
       "player_type": "Batsman",
       "rating": 85,
       "batting_hand": "Left-handed",
@@ -173,7 +173,7 @@
     {
       "name": "Hasan Ali",
       "country": "Pakistan",
-      "image": "https://ibb.co.com/0rTsSNH",
+      "image": "https://i.ibb.co.com/4pz1Gyh/Hasan-Ali.jpg",
       "player_type": "Bowler",
       "rating": 80,
       "batting_hand": "Right-handed",
