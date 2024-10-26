@@ -6,7 +6,7 @@
       "player_type": "Batsman",
       "rating": 90,
       "batting_hand": "Right-handed",
-      "price": 10000000
+      "price": 1000000
     },
     {
       "name": "Rohit Sharma",
@@ -15,7 +15,7 @@
       "player_type": "Batsman",
       "rating": 85,
       "batting_hand": "Right-handed",
-      "price": 8000000
+      "price": 800000
     },
     {
       "name": "Ravindra Jadeja",
@@ -24,7 +24,7 @@
       "player_type": "All-rounder",
       "rating": 80,
       "batting_hand": "Left-handed",
-      "price": 6000000
+      "price": 600000
     },
     {
       "name": "Jasprit Bumrah",
@@ -33,7 +33,7 @@
       "player_type": "Bowler",
       "rating": 95,
       "batting_hand": "Right-handed",
-      "price": 12000000
+      "price": 1200000
     },
     {
       "name": "M.S. Dhoni",
@@ -42,7 +42,7 @@
       "player_type": "Wicket-keeper",
       "rating": 80,
       "batting_hand": "Right-handed",
-      "price": 5000000
+      "price": 500000
     },
     {
       "name": "Shakib Al Hasan",
@@ -51,7 +51,7 @@
       "player_type": "All-rounder",
       "rating": 85,
       "batting_hand": "Left-handed",
-      "price": 7000000
+      "price": 700000
     },
     {
       "name": "Mushfiqur Rahim",
@@ -60,7 +60,7 @@
       "player_type": "Wicket-keeper",
       "rating": 80,
       "batting_hand": "Right-handed",
-      "price": 6000000
+      "price": 600000
     },
     {
       "name": "Tamim Iqbal",
@@ -69,7 +69,7 @@
       "player_type": "Batsman",
       "rating": 85,
       "batting_hand": "Left-handed",
-      "price": 7000000
+      "price": 700000
     },
     {
       "name": "Mustafizur Rahman",
@@ -78,7 +78,7 @@
       "player_type": "Bowler",
       "rating": 90,
       "batting_hand": "Right-handed",
-      "price": 10000000
+      "price": 1000000
     },
     {
       "name": "Mahmudullah Riyad",
@@ -87,7 +87,7 @@
       "player_type": "All-rounder",
       "rating": 75,
       "batting_hand": "Right-handed",
-      "price": 5000000
+      "price": 500000
     },
     {
       "name": "Kuldeep Yadav",
@@ -96,7 +96,7 @@
       "player_type": "Bowler",
       "rating": 85,
       "batting_hand": "Left-handed",
-      "price": 8000000
+      "price": 800000
     },
     {
       "name": "Yuzvendra Chahal",
@@ -105,7 +105,7 @@
       "player_type": "Bowler",
       "rating": 80,
       "batting_hand": "Right-handed",
-      "price": 6000000
+      "price": 600000
     },
     {
       "name": "Hardik Pandya",
@@ -114,7 +114,7 @@
       "player_type": "All-rounder",
       "rating": 85,
       "batting_hand": "Right-handed",
-      "price": 9000000
+      "price": 900000
     },
     {
       "name": "K.L. Rahul",
@@ -123,7 +123,7 @@
       "player_type": "Wicket-keeper",
       "rating": 80,
       "batting_hand": "Right-handed",
-      "price": 7000000
+      "price": 700000
     },
     {
       "name": "Rishabh Pant",
@@ -132,7 +132,7 @@
       "player_type": "Wicket-keeper",
       "rating": 75,
       "batting_hand": "Left-handed",
-      "price": 6000000
+      "price": 600000
     },
     {
       "name": "Shaheen Afridi",
@@ -141,7 +141,7 @@
       "player_type": "Bowler",
       "rating": 90,
       "batting_hand": "Right-handed",
-      "price": 10000000
+      "price": 1000000
     },
     {
       "name": "Babar Azam",
@@ -150,7 +150,7 @@
       "player_type": "Batsman",
       "rating": 95,
       "batting_hand": "Right-handed",
-      "price": 12000000
+      "price": 1200000
     },
     {
       "name": "Imam-ul-Haq",
@@ -159,7 +159,7 @@
       "player_type": "Batsman",
       "rating": 80,
       "batting_hand": "Left-handed",
-      "price": 7000000
+      "price": 700000
     },
     {
       "name": "Fakhar Zaman",
@@ -168,7 +168,7 @@
       "player_type": "Batsman",
       "rating": 85,
       "batting_hand": "Left-handed",
-      "price": 8000000
+      "price": 800000
     },
     {
       "name": "Hasan Ali",
@@ -177,6 +177,6 @@
       "player_type": "Bowler",
       "rating": 80,
       "batting_hand": "Right-handed",
-      "price": 6000000
+      "price": 600000
     }
   ]
